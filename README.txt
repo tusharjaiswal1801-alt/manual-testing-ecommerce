@@ -1,6 +1,7 @@
 Manual Testing Project – E-Commerce Application
 
-This project demonstrates manual testing 
+This project demonstrates manual testing of an e-commerce web application.
+The focus is on functional testing of core modules.
 
 Modules Tested:
 - Registration
